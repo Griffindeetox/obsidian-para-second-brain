@@ -1,0 +1,6 @@
+# Obsidian internal settings (optional to keep private)
+.obsidian/
+
+# OS noise
+.DS_Store
+__MACOSX/
