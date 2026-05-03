@@ -86,3 +86,5 @@ This system keeps your knowledge organized and actionable.
 ## 🤝 Questions?
 
 If you have questions or suggestions, feel free to open an issue or contribute!
+
+https://theadeyemi.hashnode.dev/how-i-turned-daily-journaling-into-a-linux-terminal-habit
