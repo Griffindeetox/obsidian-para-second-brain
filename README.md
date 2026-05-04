@@ -2,6 +2,14 @@
 
 This repository provides a ready-to-use Obsidian vault structure based on the **PARA method** (Projects, Areas, Resources, Archive).
 
+## 📝 Blog Post
+
+I wrote the full story behind this setup here:
+
+[How I Turned Daily Journaling into a Linux Terminal Habit](https://theadeyemi.hashnode.dev/how-i-turned-daily-journaling-into-a-linux-terminal-habit)
+
+This repo is part of my broader learning journey: turning daily habits into practical Linux, DevOps, and Kubernetes labs.
+
 ---
 
 ## ⚡ Quick Start (5 minutes)
@@ -87,4 +95,4 @@ This system keeps your knowledge organized and actionable.
 
 If you have questions or suggestions, feel free to open an issue or contribute!
 
-https://theadeyemi.hashnode.dev/how-i-turned-daily-journaling-into-a-linux-terminal-habit
+
